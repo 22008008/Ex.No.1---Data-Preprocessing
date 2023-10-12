@@ -64,7 +64,61 @@ print("Size of X_test: ",len(X_test))
 X_train.shape
 ```
 ## OUTPUT:
-```
+## Dataset:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/902aeaf5-6a09-41b3-84f2-3f7bf78e5c89)
+
+## Checking for Null Values:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/b59b2cb4-c04c-4f9e-a0bc-2d2f0421d298)
+
+## Checking for duplicate values:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/b1e124b9-cb2a-42d6-b10e-bf0d35f98e1b)
+
+## Describing Data:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/5346c1cd-6277-4b55-aa74-3a5285c363f9)
+
+## Checking for outliers in Exited Column:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/a1f05b88-6d0c-40d8-9254-971071d98098)
+
+## Normalized Dataset:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/bad819d2-3ef1-4637-b1d5-6433b87ab454)
+
+## Describing Normalized Data:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/52710462-50f6-4549-829d-b830d667b3ab)
+
+## X - Values:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/2f8885ce-ab74-413d-95e7-5226315e8316)
+
+## Y - Value:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/ce93cf51-d52f-41cd-87a5-580fb8c672dc)
+
+## X_train values:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/c7172343-dbb1-4f95-be47-20037889e4b4)
+
+## X_train Size:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/0674bfb8-ba12-43df-8740-82fac40a1bdb)
+
+## X_test values:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/16e7be99-be00-4014-bdf0-c737d9048eb8)
+
+## X_test Size:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/c3caad7c-dc6c-402a-bbe7-6b767e517171)
+
+## X_train shape:
+
+![image](https://github.com/22008008/Ex.No.1---Data-Preprocessing/assets/118343520/0293a7bf-d9bf-4ae2-98b6-8477e842c2e5)
 
 ## RESULT
 ```
