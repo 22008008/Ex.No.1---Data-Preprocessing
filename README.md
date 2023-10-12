@@ -32,6 +32,10 @@ Another aspect is that the data set should be formatted in such a way that more 
 ```
 ## PROGRAM:
 ```
+DEVELOPED: SRI RANJANI PRIYA.P
+REG NO: 212222220049
+```
+```
 import pandas as pd
 import numpy as np
 df = pd.read_csv("/content/Churn_Modelling.csv")
